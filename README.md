@@ -1,8 +1,10 @@
 ====
-Braço/Garra [PyOpenGL](http://pyopengl.sourceforge.net/)
+Cubo [PyOpenGL](http://pyopengl.sourceforge.net/)
 ====
 
 Foi desenvolvido no início dos estudo de OpenGL, durante a diciplina de Computação Gráfica.
+Para compreender como funcionam as projeções ortogonais e em perpectivas
+no OpenGl
 
 ---
 Como executar
