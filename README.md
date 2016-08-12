@@ -10,9 +10,9 @@ no OpenGl
 Como executar
 ---
 1. Instale o PyOpenGL, a forma mais fácil é utilizando `pip`:
-        * `pip install PyOpenGL PyOpenGL_accelerate`
+	* `pip install PyOpenGL PyOpenGL_accelerate`
 2. Depois é só executar:
-        * `python cubo.py`
+	* `python cubo.py`
 
 ---
 Comandos
